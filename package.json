@@ -1,0 +1,21 @@
+{
+  "name": "cws-chatbot",
+  "version": "1.0.0",
+  "description": "A chatbot for Creative Waves Social that use the OpenAI GPT-3 API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "chatbot",
+    "openai",
+    "shopify"
+  ],
+  "author": "Evan B",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "node-fetch": "^3.3.1"
+  }
+}
